@@ -1,0 +1,720 @@
+.component {
+  position: relative;
+  width: 1444px;
+  height: 3081px;
+  background-color: #041334;
+}
+
+.component .text-wrapper {
+  position: absolute;
+  top: 3065px;
+  left: 590px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .footer {
+  position: absolute;
+  width: 1440px;
+  height: 415px;
+  top: 2634px;
+  left: 4px;
+  background-color: #00092a;
+}
+
+.component .group {
+  position: relative;
+  width: 1317px;
+  height: 275px;
+  top: 70px;
+  left: 103px;
+}
+
+.component .overlap {
+  position: relative;
+  width: 1315px;
+  height: 275px;
+}
+
+.component .logo {
+  position: absolute;
+  width: 311px;
+  height: 40px;
+  top: 0;
+  left: 1px;
+}
+
+.component .overlap-group {
+  position: absolute;
+  width: 1315px;
+  height: 275px;
+  top: 0;
+  left: 0;
+}
+
+.component .frame {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 120px;
+  padding: 0px 80px;
+  position: absolute;
+  top: 0;
+  left: 555px;
+  background-color: #00092a;
+}
+
+.component .div {
+  position: relative;
+  width: 144px;
+  height: 275px;
+}
+
+.component .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .group-2 {
+  position: absolute;
+  width: 154px;
+  height: 219px;
+  top: 56px;
+  left: 0;
+}
+
+.component .text-wrapper-3 {
+  position: absolute;
+  top: 195px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-5 {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-6 {
+  position: absolute;
+  top: 78px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-7 {
+  position: absolute;
+  top: 117px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-8 {
+  position: absolute;
+  top: 156px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .group-3 {
+  position: relative;
+  width: 135px;
+  height: 197px;
+}
+
+.component .group-4 {
+  position: absolute;
+  width: 141px;
+  height: 141px;
+  top: 56px;
+  left: 0;
+}
+
+.component .group-5 {
+  position: relative;
+  width: 87px;
+  height: 236px;
+  margin-right: -2px;
+}
+
+.component .group-6 {
+  position: absolute;
+  width: 94px;
+  height: 180px;
+  top: 56px;
+  left: 0;
+}
+
+.component .coinintention-s {
+  position: absolute;
+  width: 602px;
+  top: 60px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .reasons {
+  position: absolute;
+  width: 1243px;
+  height: 572px;
+  top: 1982px;
+  left: 104px;
+}
+
+.component .reason-to-invest-in {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .group-7 {
+  position: absolute;
+  width: 537px;
+  height: 381px;
+  top: 178px;
+  left: 0;
+}
+
+.component .group-8 {
+  position: absolute;
+  width: 541px;
+  height: 107px;
+  top: 137px;
+  left: 0;
+}
+
+.component .text-wrapper-9 {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .lorem-ipsum-dolor {
+  position: absolute;
+  top: 35px;
+  left: 45px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .vector {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  left: 0;
+}
+
+.component .group-9 {
+  position: absolute;
+  width: 537px;
+  height: 107px;
+  top: 0;
+  left: 0;
+}
+
+.component .group-10 {
+  position: absolute;
+  width: 496px;
+  height: 107px;
+  top: 0;
+  left: 45px;
+}
+
+.component .text-wrapper-10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .p {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .group-11 {
+  position: absolute;
+  width: 541px;
+  height: 107px;
+  top: 274px;
+  left: 0;
+}
+
+.component .overlap-2 {
+  position: absolute;
+  width: 603px;
+  height: 692px;
+  top: -39px;
+  left: 639px;
+}
+
+.component .img {
+  position: absolute;
+  width: 603px;
+  height: 337px;
+  top: 186px;
+  left: 0;
+}
+
+.component .group-12 {
+  position: absolute;
+  width: 525px;
+  height: 692px;
+  top: 0;
+  left: 50px;
+}
+
+.component .map {
+  position: absolute;
+  width: 1440px;
+  height: 651px;
+  top: 1251px;
+  left: 4px;
+}
+
+.component .btn {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 202px;
+  height: 60px;
+  top: 1111px;
+  left: 624px;
+}
+
+.component .div-wrapper {
+  position: relative;
+  width: 200px;
+  height: 60px;
+  background-image: url(./img/rectangle-29.png);
+  background-size: 100% 100%;
+}
+
+.component .text-wrapper-11 {
+  position: absolute;
+  top: 12px;
+  left: 51px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .crypto-chart {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  position: absolute;
+  top: 321px;
+  left: 121px;
+}
+
+.component .navbar {
+  position: relative;
+  width: 1189px;
+  height: 30px;
+}
+
+.component .text-wrapper-12 {
+  top: 0;
+  left: 0;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-13 {
+  top: 0;
+  left: 391px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-14 {
+  position: absolute;
+  top: 0;
+  left: 593px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-15 {
+  top: 0;
+  left: 848px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-16 {
+  top: 0;
+  left: 1066px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .div-2 {
+  position: relative;
+  width: 1215px;
+  height: 40px;
+  margin-right: -8px;
+}
+
+.component .img-2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.component .text-wrapper-17 {
+  top: 5px;
+  left: 63px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-18 {
+  top: 8px;
+  left: 154px;
+  font-weight: 400;
+  color: #848484;
+  font-size: 16px;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-19 {
+  position: absolute;
+  top: 5px;
+  left: 368px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-20 {
+  position: absolute;
+  top: 5px;
+  left: 624px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #14ff00;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .vector-2 {
+  position: absolute;
+  width: 60px;
+  height: 24px;
+  top: 8px;
+  left: 846px;
+}
+
+.component .text-wrapper-21 {
+  left: 1035px;
+  position: absolute;
+  top: 5px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .div-3 {
+  position: relative;
+  width: 1217px;
+  height: 40px;
+  margin-right: -10px;
+}
+
+.component .text-wrapper-22 {
+  position: absolute;
+  top: 5px;
+  left: 65px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-23 {
+  position: absolute;
+  top: 8px;
+  left: 181px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #848484;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-24 {
+  left: 370px;
+  position: absolute;
+  top: 5px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .text-wrapper-25 {
+  position: absolute;
+  top: 5px;
+  left: 624px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ff0000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .vector-3 {
+  position: absolute;
+  width: 60px;
+  height: 24px;
+  top: 8px;
+  left: 848px;
+}
+
+.component .text-wrapper-26 {
+  left: 1037px;
+  position: absolute;
+  top: 5px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .group-13 {
+  position: relative;
+  width: 1202px;
+  height: 40px;
+}
+
+.component .text-wrapper-27 {
+  position: absolute;
+  top: 8px;
+  left: 170px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #848484;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .group-14 {
+  position: absolute;
+  width: 950px;
+  height: 76px;
+  top: 180px;
+  left: 104px;
+}
+
+.component .today-s {
+  position: absolute;
+  width: 549px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .overlap-group-wrapper {
+  position: absolute;
+  width: 950px;
+  height: 30px;
+  top: 46px;
+  left: 0;
+}
+
+.component .overlap-group-2 {
+  position: relative;
+  width: 948px;
+  height: 30px;
+}
+
+.component .vector-4 {
+  position: absolute;
+  width: 16px;
+  height: 17px;
+  top: 7px;
+  left: 574px;
+}
+
+.component .the-global {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.component .span {
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.component .text-wrapper-28 {
+  font-weight: 700;
+  color: #14ff00;
+}
+
+.component .text-wrapper-29 {
+  font-weight: 700;
+  color: #ff0000;
+}
+
+.component .header {
+  position: absolute;
+  width: 1440px;
+  height: 100px;
+  top: 0;
+  left: 0;
+}
+
